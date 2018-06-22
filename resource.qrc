@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/audio-volume-medium.svg</file>
+        <file>image/audio-volume-muted.svg</file>
+        <file>image/media-playback-pause.svg</file>
+        <file>image/media-playback-start.svg</file>
+        <file>image/media-seek-backward.svg</file>
+        <file>image/media-seek-forward.svg</file>
+        <file>image/fav_press.svg</file>
+        <file>image/hide_lyc_press.svg</file>
+        <file>image/jumpto_playing_press.svg</file>
+        <file>image/lrc_press.svg</file>
+        <file>image/lrc_search_press.svg</file>
+        <file>image/next_press.svg</file>
+        <file>image/pause_press.svg</file>
+        <file>image/play_all.svg</file>
+        <file>image/previous_press.svg</file>
+        <file>image/repeat_all_press.svg</file>
+        <file>image/repeat_single_press.svg</file>
+        <file>image/sequence_press.svg</file>
+        <file>image/show_lyc_hover.svg</file>
+        <file>image/show_lyc_press.svg</file>
+        <file>image/show_playlist_press.svg</file>
+        <file>image/shuffle_press.svg</file>
+        <file>image/start_press.svg</file>
+        <file>image/volume_high_press.svg</file>
+        <file>image/volume_low_press.svg</file>
+        <file>image/volume_mid_press.svg</file>
+        <file>image/volume_mute_press.svg</file>
+        <file>image/pause_press.png</file>
+        <file>image/hide_lyc_press.png</file>
+        <file>image/next_press.png</file>
+        <file>image/previous_press.png</file>
+        <file>image/repeat_all_press.png</file>
+        <file>image/repeat_single_press.png</file>
+        <file>image/sequence_press.png</file>
+        <file>image/show_lyc_press.png</file>
+        <file>image/show_playlist_press.png</file>
+        <file>image/shuffle_press.png</file>
+        <file>image/start_press.png</file>
+        <file>image/volume_high_press.png</file>
+        <file>image/volume_low_press.png</file>
+        <file>image/volume_mid_press.png</file>
+        <file>image/volume_mute_press.png</file>
+    </qresource>
+</RCC>
