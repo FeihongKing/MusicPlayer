@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/next_press.svg</file>
+        <file>image/pause_press.svg</file>
+        <file>image/previous_press.svg</file>
+        <file>image/repeat_all_press.svg</file>
+        <file>image/repeat_single_press.svg</file>
+        <file>image/sequence_press.svg</file>
+        <file>image/shuffle_press.svg</file>
+        <file>image/start_press.svg</file>
+        <file>image/next_press.png</file>
+        <file>image/pause_press.png</file>
+        <file>image/previous_press.png</file>
+        <file>image/repeat_all_press.png</file>
+        <file>image/repeat_single_press.png</file>
+        <file>image/sequence_press.png</file>
+        <file>image/shuffle_press.png</file>
+        <file>image/start_press.png</file>
+        <file>image/view-refresh.png</file>
+    </qresource>
+</RCC>
