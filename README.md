@@ -5,6 +5,11 @@
 
 编译方式
 
+可能需要安装以下依赖
+
+    qtmultimedia5-dev
+    libtag1-dev
+
     $ git clone https://github.com/FeihongKing/MusicPlayer.git
     $ cd MusicPlayer
     $ mkdir build
