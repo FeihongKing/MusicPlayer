@@ -38,11 +38,6 @@ FORMS += \
 RESOURCES += \
     resource.qrc
 
-contains(QT_ARCH,x86_64){
-LIBS += \
-        /usr/lib/x86_64-linux-gnu/libtag.so
-}
-else{
-LIBS += \
-        /usr/lib/aarch64-linux-gnu/libtag.so
-}
+CONFIG += link_pkgconfig
+PKGCONFIG += taglib
+
